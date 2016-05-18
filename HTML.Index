@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div {
+    width: 320px;
+    padding: 10px;
+    border: 5px solid gray;
+    margin: 0;
+}
+</style>
+</head>
+<body>
+<h2> Enter THe Future Of Technology!!!</h2>
+<img src="articleistock000019917314small.jpg"
