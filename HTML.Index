@@ -1,15 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-div {
-    width: 320px;
-    padding: 10px;
-    border: 5px solid gray;
-    margin: 0;
-}
-</style>
+Page Title
 </head>
 <body>
 <h2> Joel's Website!!!</h2>
-<img src="articleistock000019917314small.jpg"
+</body>
